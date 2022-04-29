@@ -56,7 +56,7 @@ const textNodes = [
     options: [
       {
         text: 'Trade the goo for a sword.',
-        requiredState: (currentState) => currentState.blueGoo
+        requiredState: (currentState) => currentState.blueGoo,
         setState: { blueGoo: false, sword: true }
       }
     ]
