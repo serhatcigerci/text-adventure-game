@@ -1,1 +1,1 @@
-# text-adventure-game
+# A text adventure game that is inspired by that video: https://youtu.be/R1S_NhKkvGA
